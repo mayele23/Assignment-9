@@ -1,4 +1,4 @@
-# nuxty
+# Assignment 9
 
 > my first nuxt project
 
